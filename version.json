@@ -1,0 +1,7 @@
+{
+    "versionCode": 660000001,
+    "versionName": "0.0.1",
+    "apkUrl": "https://github.com/Shubham07-bit/insynq-releases/releases/download/test/Insynq-in-app-update.apk",
+    "forceUpdate": false,
+    "releaseNotes": "Bug fixes and performance improvements."
+}
