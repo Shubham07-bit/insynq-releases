@@ -1,7 +1,7 @@
 {
-    "versionCode": 660001000,
-    "versionName": "0.0.2",
-    "apkUrl": "https://github.com/Shubham07-bit/insynq-releases/releases/download/test-v2/Insynq-in-app-update-v2.apk",
+    "versionCode": 660002000,
+    "versionName": "0.0.3",
+    "apkUrl": "https://github.com/Shubham07-bit/insynq-releases/releases/download/test-v3/Insynq-in-app-update-v3.apk",
     "forceUpdate": false,
-    "releaseNotes": "Test v2 - verify in-app update detection"
+    "releaseNotes": "Test v3 - fixed download redirect and install intent flags"
 }
