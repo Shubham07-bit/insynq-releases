@@ -1,7 +1,7 @@
 {
-    "versionCode": 660005000,
-    "versionName": "0.0.6",
-    "apkUrl": "https://github.com/Shubham07-bit/insynq-releases/releases/download/test-v6/Insynq-in-app-update-v6.apk",
+    "versionCode": 660008000,
+    "versionName": "0.0.8",
+    "apkUrl": "https://github.com/Shubham07-bit/insynq-releases/releases/download/test-v8/Insynq-in-app-update-v8.apk",
     "forceUpdate": false,
-    "releaseNotes": "Test v6 - target for v5 in-app update test"
+    "releaseNotes": "Test v8 - target for v7 in-app update test with ACTION_INSTALL_PACKAGE"
 }
