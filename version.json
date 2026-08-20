@@ -1,16 +1,10 @@
 {
     "versions": [
         {
-            "versionCode": 660014000,
-            "versionName": "0.0.14",
-            "apkUrl": "https://github.com/Shubham07-bit/insynq-releases/releases/download/test-v14/Insynq-in-app-update-v14.apk",
+            "versionCode": 661002000,
+            "versionName": "insynq-v1.0.2",
+            "apkUrl": "https://github.com/Shubham07-bit/insynq-releases/releases/download/insynq-v1.0.2/Insynq-v1.0.2.apk",
             "releaseNotes": "New: dedicated Updates tab in Settings, scrollable version list, install any version. Popup-once behavior and APK caching."
-        },
-        {
-            "versionCode": 660012000,
-            "versionName": "0.0.12",
-            "apkUrl": "https://github.com/Shubham07-bit/insynq-releases/releases/download/test-v12/Insynq-in-app-update-v12.apk",
-            "releaseNotes": "Test v12 - target for v11 in-app update test with APK caching"
         }
     ]
 }
