@@ -1,7 +1,7 @@
 {
-    "versionCode": 660010000,
-    "versionName": "0.0.10",
-    "apkUrl": "https://github.com/Shubham07-bit/insynq-releases/releases/download/test-v10/Insynq-in-app-update-v10.apk",
+    "versionCode": 660012000,
+    "versionName": "0.0.12",
+    "apkUrl": "https://github.com/Shubham07-bit/insynq-releases/releases/download/test-v12/Insynq-in-app-update-v12.apk",
     "forceUpdate": false,
-    "releaseNotes": "Test v10 - target for v9 in-app update test with merged FileProvider"
+    "releaseNotes": "Test v12 - target for v11 in-app update test with APK caching"
 }
