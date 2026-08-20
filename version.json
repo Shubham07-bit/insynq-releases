@@ -3,7 +3,7 @@
         {
             "versionCode": 660014000,
             "versionName": "0.0.14",
-            "apkUrl": "https://raw.githubusercontent.com/Shubham07-bit/insynq-releases/main/Insynq-in-app-update-v14.apk",
+            "apkUrl": "https://github.com/Shubham07-bit/insynq-releases/releases/download/test-v14/Insynq-in-app-update-v14.apk",
             "releaseNotes": "New: dedicated Updates tab in Settings, scrollable version list, install any version. Popup-once behavior and APK caching."
         },
         {
